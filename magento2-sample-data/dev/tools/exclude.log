@@ -1,0 +1,12 @@
+README.md
+app/code
+dev/tests/integration/testsuite/Magento/SampleData/Helper
+dev/tests/integration/testsuite/Magento/SampleData/Model/TestLogger.php
+dev/tests/integration/testsuite/Magento/SampleData/_files/fixtures
+dev/tools/build-sample-data.php
+pub/media/LICENSE.txt
+pub/media/catalog
+pub/media/composer.json
+pub/media/downloadable/files
+pub/media/wysiwyg
+vendor/magento/sample-data-media
